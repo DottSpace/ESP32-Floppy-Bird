@@ -2,7 +2,8 @@
 
 A basilar Flappy Bird clone for ESP32 streaming via web.
 
-<img width="727" height="760" alt="Schermata del 2026-01-01 19-57-42" src="https://github.com/user-attachments/assets/606c96b7-0bbc-4c1d-bece-8bf5dedb2092" />
+<img width="685" height="514" alt="Schermata del 2026-01-01 19-57-42" src="https://github.com/user-attachments/assets/31e57390-7a28-436c-b84e-fccb6ade1fdb" />
+
 
 By connecting to the ESP32 WiFi and then entering its IP in your browser, you can connect to the ESP32 and play Flappy Bird live.
 
